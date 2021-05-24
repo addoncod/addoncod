@@ -1,0 +1,39 @@
+ime="HRT 1"
+url="http://195.29.70.84/PLTV/88888888/224/3221226139/index.m3u8" 
+img="http://tvprofil.net/img/kanali-logo/htv1-logo.png"
+epg="1"
+
+ime="HRT 2"
+url="http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8" 
+img="http://tvprofil.net/img/kanali-logo/htv2-logo.png"
+epg="2"
+
+ime="HRT 3"
+url="http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8" 
+img="http://tvprofil.net/img/kanali-logo/hrt3-logo.png"
+epg="310"
+
+ime="HRT 4"
+url="http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8" 
+img="http://img3.wikia.nocookie.net/__cb20121221162234/logopedia/images/d/dc/HRT4.png"
+epg="341"
+
+ime="RTL"
+url="http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8" 
+img="http://www.web-tv-portal.de/img/fernsehen/rtl-logo.png"
+epg="4"
+
+ime="STV"
+url="http://89.201.163.244:8080/hls/hdmi.m3u8" 
+img="https://upload.wikimedia.org/wikipedia/en/8/87/STV_logo_2014.png"
+epg="116"
+
+ime="Z1"
+url="http://89.201.163.244:8080/hls/hdmi.m3u8" 
+img="https://oimp.hr/wp-content/uploads/2018/01/z1.jpg"
+epg="-"
+
+ime="Banovina"
+url="http://video.radio-banovina.hr:1935/live/myStream/playlist.m3u8" 
+img="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/16/95/5225/c175.png"
+epg="-"
